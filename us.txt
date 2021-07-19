@@ -1,5 +1,7 @@
 header
 
-string 1
+string 1 
+edit from branch1
+
 string 2
 string 3
