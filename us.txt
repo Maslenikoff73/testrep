@@ -9,4 +9,5 @@ edit from branch2
 
 
 string 3
-edit from new branch1
+edit from new2 branch1
+added 2 string in new branch1
